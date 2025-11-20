@@ -60,24 +60,7 @@ Tecnologías
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🏗️ Infraestructura AWS</h3>
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/alissonserpas/terraform-aws-basic-server">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ver_C%C3%B3digo-22c55e%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack" />
-</a>
-</div>
-<p align="center">
-Despliegue automatizado de servidores EC2 usando <strong>Terraform</strong>. Infraestructura como Código (IaC) pura.
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🔄 Pipeline CI/CD</h3>
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/alissonserpas/pipeline-cicd-python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ver_C%C3%B3digo-22c55e%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack" />
-</a>
-</div>
+
 <p align="center">
 Automatización completa con <strong>GitHub Actions</strong> y <strong>Docker</strong>. De código a producción en minutos.
 </p>
