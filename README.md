@@ -10,7 +10,7 @@ Apasionada por la automatización, la infraestructura como código y la nube. Tr
 
 ---
 
-## 💼 Sobre mí
+##  Sobre mí
 
 Soy una ingeniera especializada en Cloud y DevOps con experiencia en automatización de infraestructura y despliegue de aplicaciones escalables. Me enfoco en construir pipelines eficientes y mantener sistemas robustos que permitan a los equipos desarrollar y desplegar con confianza.
 
@@ -18,7 +18,7 @@ Además del trabajo en infraestructura, tengo experiencia en desarrollo full-sta
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -42,7 +42,7 @@ Además del trabajo en infraestructura, tengo experiencia en desarrollo full-sta
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 Interesada en colaborar en proyectos relacionados con infraestructura cloud, automatización y DevOps.
 
