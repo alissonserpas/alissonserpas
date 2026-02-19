@@ -1,114 +1,76 @@
-<div align="center">
+# Alisson Serpas
 
-# 👋 ¡Hola! Soy Alisson Serpas
+**Cloud & DevOps Engineer**
 
-### Cloud & DevOps Engineer | Automatización | Infraestructura como Código
+Apasionada por la automatización, la infraestructura como código y la nube. Transformando código en soluciones escalables.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissonserpas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-alisson.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisson@example.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=alissonserpas&color=blueviolet&style=flat-square)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-serpas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://alisson-serpas.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alisonserpas@gmail.com)
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Apasionada por la **automatización**, la **infraestructura como código** y la **nube**. Me especializo en transformar código en soluciones escalables, optimizando procesos y construyendo sistemas robustos que impulsan el crecimiento tecnológico.
+Soy una ingeniera especializada en Cloud y DevOps con experiencia en automatización de infraestructura y despliegue de aplicaciones escalables. Me enfoco en construir pipelines eficientes y mantener sistemas robustos que permitan a los equipos desarrollar y desplegar con confianza.
 
 ```javascript
 const alisson = {
-    code: ["JavaScript", "Python", "Bash", "YAML"],
+    role: "Cloud & DevOps Engineer",
     technologies: {
         cloud: ["AWS", "Azure", "Google Cloud"],
-        devOps: ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
-        iac: ["Terraform", "Ansible", "CloudFormation"],
-        monitoring: ["Prometheus", "Grafana", "ELK Stack"]
+        containers: ["Docker", "Kubernetes"],
+        iac: ["Terraform", "Ansible"],
+        cicd: ["GitHub Actions", "Jenkins"],
+        monitoring: ["Prometheus", "Grafana"]
     },
-    currentFocus: "Automatización de infraestructura y CI/CD pipelines",
-    philosophy: "Automatiza todo lo que puedas automatizar 🤖"
+    currentFocus: "Automatización de infraestructura y CI/CD pipelines"
 };
 ```
 
 ---
 
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Cloud & Containers**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### 🛠️ IaC & Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Infrastructure as Code**  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-### 💾 Databases & Sistemas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**CI/CD & Automation**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+**Databases & Systems**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-## 🏆 Logros y Certificaciones
-
-- 🎯 **AWS Certified Solutions Architect** (en progreso)
-- 🐳 **Docker & Kubernetes Expert**
-- 🔧 **Terraform Infrastructure Specialist**
-- 📈 **CI/CD Pipeline Architect**
+**Monitoring**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
 
-## 📈 Actividad Reciente
+## GitHub Stats
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonserpas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
----
-
-## 💡 Filosofía de Trabajo
-
-> "La mejor infraestructura es aquella que puedes recrear con un solo comando"
-
-Creo firmemente en:
-- ✅ **Automatización primero**: Si lo haces dos veces, automatízalo
-- ✅ **Infraestructura inmutable**: Trata tu infraestructura como código
-- ✅ **Observabilidad**: Lo que no puedes medir, no puedes mejorar
-- ✅ **Seguridad por diseño**: La seguridad no es una característica, es un requisito
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonserpas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
-## 🤝 Conectemos
+## Contacto
 
-<div align="center">
+Interesada en colaborar en proyectos relacionados con infraestructura cloud, automatización y DevOps.
 
-¿Tienes un proyecto interesante? ¿Quieres colaborar? ¡Me encantaría escucharte!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alissonserpas)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail)](mailto:alisson@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Gracias por visitar mi perfil
-
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-
-**"Transformando código en soluciones escalables"**
-
-</div>
+- **LinkedIn**: [linkedin.com/in/alisson-serpas](https://www.linkedin.com/in/alisson-serpas)
+- **Portfolio**: [alisson-serpas.netlify.app](https://alisson-serpas.netlify.app/)
+- **Email**: alisonserpas@gmail.com
