@@ -47,7 +47,7 @@ Además del trabajo en infraestructura, tengo experiencia en desarrollo full-sta
 Interesada en colaborar en proyectos relacionados con infraestructura cloud, automatización y DevOps.
 
 **LinkedIn:** [linkedin.com/in/alisson-serpas](https://www.linkedin.com/in/alisson-serpas)  
-**Portfolio:** [alisson-serpas.netlify.app](https://alissonserpas-portafolio.vercel.app/)  
+**Portfolio:** [alissonserpas-portafolio.vercel.app](https://alissonserpas-portafolio.vercel.app/)  
 **Email:** alisonserpas@gmail.com
 
 ---
