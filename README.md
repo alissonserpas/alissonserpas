@@ -5,7 +5,7 @@
 Apasionada por la automatización, la infraestructura como código y la nube. Transformando código en soluciones escalables.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-serpas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://alisson-serpas.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://alissonserpas-portafolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alisonserpas@gmail.com)
 
 ---
@@ -47,7 +47,7 @@ Además del trabajo en infraestructura, tengo experiencia en desarrollo full-sta
 Interesada en colaborar en proyectos relacionados con infraestructura cloud, automatización y DevOps.
 
 **LinkedIn:** [linkedin.com/in/alisson-serpas](https://www.linkedin.com/in/alisson-serpas)  
-**Portfolio:** [alisson-serpas.netlify.app](https://alisson-serpas.netlify.app/)  
+**Portfolio:** [alisson-serpas.netlify.app](https://alissonserpas-portafolio.vercel.app/)  
 **Email:** alisonserpas@gmail.com
 
 ---
